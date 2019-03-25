@@ -1,0 +1,425 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f1f36420-1e32-4a38-9f03-fe1d9c779d81" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/mitocw600SC$testing.coverage" NAME="testing Coverage Results" MODIFIED="1529912817860" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/problem_set_2" />
+    <SUITE FILE_PATH="coverage/mitocw600SC$lecture5code.coverage" NAME="lecture5code Coverage Results" MODIFIED="1528368204228" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/problem_set_2" />
+    <SUITE FILE_PATH="coverage/mitocw600SC$ps1a.coverage" NAME="ps1a Coverage Results" MODIFIED="1526945286002" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv" />
+    <SUITE FILE_PATH="coverage/mitocw600SC$test_ps3a.coverage" NAME="test_ps3a Coverage Results" MODIFIED="1529559973433" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/problem_set_3" />
+    <SUITE FILE_PATH="coverage/mitocw600SC$ps2_newton.coverage" NAME="ps2_newton Coverage Results" MODIFIED="1529220631348" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/problem_set_2" />
+    <SUITE FILE_PATH="coverage/mitocw600SC$ps3a.coverage" NAME="ps3a Coverage Results" MODIFIED="1529913236870" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/problem_set_3" />
+    <SUITE FILE_PATH="coverage/mitocw600SC$ps1b.coverage" NAME="ps1b Coverage Results" MODIFIED="1527607594633" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv" />
+    <SUITE FILE_PATH="coverage/mitocw600SC$problemset_0.coverage" NAME="problemset_0 Coverage Results" MODIFIED="1525355846583" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv" />
+    <SUITE FILE_PATH="coverage/mitocw600SC$lec3cd.coverage" NAME="lec3cd Coverage Results" MODIFIED="1527518286215" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv" />
+    <SUITE FILE_PATH="coverage/mitocw600SC$ps1b_revised.coverage" NAME="ps1b_revised Coverage Results" MODIFIED="1528368200978" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/problem_set_1" />
+    <SUITE FILE_PATH="coverage/mitocw600SC$ps3b_sol.coverage" NAME="ps3b_sol Coverage Results" MODIFIED="1529933315701" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/problem_set_3" />
+    <SUITE FILE_PATH="coverage/mitocw600SC$ps3b.coverage" NAME="ps3b Coverage Results" MODIFIED="1529933229946" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/problem_set_3" />
+    <SUITE FILE_PATH="coverage/mitocw600SC$Recursive_demo_1.coverage" NAME="Recursive_demo_1 Coverage Results" MODIFIED="1528677499515" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/PProjects" />
+    <SUITE FILE_PATH="coverage/mitocw600SC$ps1c.coverage" NAME="ps1c Coverage Results" MODIFIED="1527771575916" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv" />
+    <SUITE FILE_PATH="coverage/mitocw600SC$ps2_hangman.coverage" NAME="ps2_hangman Coverage Results" MODIFIED="1529238893723" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/problem_set_2" />
+    <SUITE FILE_PATH="coverage/mitocw600SC$perm.coverage" NAME="perm Coverage Results" MODIFIED="1529562710638" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/problem_set_3" />
+    <SUITE FILE_PATH="coverage/mitocw600SC$ps2_problem_1.coverage" NAME="ps2_problem#1 Coverage Results" MODIFIED="1528873465011" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/problem_set_2" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="mitocw600SC" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>totalprinpay</find>
+      <find>lowerbound</find>
+      <find>upper</find>
+      <find>upperbound</find>
+      <find>changeletter</find>
+      <find>change_letter</find>
+      <find>removeletter</find>
+      <find>printletters</find>
+      <find>words.txt</find>
+      <find>best_op</find>
+      <find>best</find>
+      <find>load</find>
+      <find>play_game</find>
+      <find>play_hand</find>
+    </findStrings>
+    <replaceStrings>
+      <replace />
+      <replace>d</replace>
+    </replaceStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/venv/problemset_0.py" />
+        <option value="$PROJECT_DIR$/venv/ps1a.py" />
+        <option value="$PROJECT_DIR$/venv/ps1b.py" />
+        <option value="$PROJECT_DIR$/venv/ps1c.py" />
+        <option value="$PROJECT_DIR$/venv/lec3cd.py" />
+        <option value="$PROJECT_DIR$/venv/problem_set_1/lec3cd.py" />
+        <option value="$PROJECT_DIR$/venv/problem_set_1/ps1b.py" />
+        <option value="$PROJECT_DIR$/venv/problem_set_1/ps1a.py" />
+        <option value="$PROJECT_DIR$/venv/problem_set_1/ps1c.py" />
+        <option value="$PROJECT_DIR$/venv/problem_set_1/ps1b_revised.py" />
+        <option value="$PROJECT_DIR$/venv/problem_set_2/lecture5code.py" />
+        <option value="$PROJECT_DIR$/venv/PProjects/Recursive_ispal.py" />
+        <option value="$PROJECT_DIR$/venv/PProjects/Recursive_demo_1.py" />
+        <option value="$PROJECT_DIR$/venv/problem_set_2/ps2_problem#2.py" />
+        <option value="$PROJECT_DIR$/venv/problem_set_2/ps2_problem#1.py" />
+        <option value="$PROJECT_DIR$/venv/problem_set_2/ps2_newton.py" />
+        <option value="$PROJECT_DIR$/venv/problem_set_2/ps2_hangman.py" />
+        <option value="$PROJECT_DIR$/venv/problem_set_3/perm.py" />
+        <option value="$PROJECT_DIR$/venv/problem_set_2/testing.py" />
+        <option value="$PROJECT_DIR$/venv/problem_set_3/ps3b.py" />
+        <option value="$PROJECT_DIR$/venv/problem_set_3/ps3b_sol.py" />
+        <option value="$PROJECT_DIR$/venv/problem_set_3/ps3asol.py" />
+        <option value="$PROJECT_DIR$/venv/problem_set_3/ps3a.py" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="y" value="22" />
+    <option name="width" value="1440" />
+    <option name="height" value="874" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="mitocw600SC" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mitocw600SC" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mitocw600SC" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mitocw600SC" type="462c0819:PsiDirectoryNode" />
+              <item name="venv" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mitocw600SC" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mitocw600SC" type="462c0819:PsiDirectoryNode" />
+              <item name="venv" type="462c0819:PsiDirectoryNode" />
+              <item name="PProjects" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mitocw600SC" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mitocw600SC" type="462c0819:PsiDirectoryNode" />
+              <item name="venv" type="462c0819:PsiDirectoryNode" />
+              <item name="problem_set_3" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mitocw600SC" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="Course" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.editor" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/venv/problem_set_3" />
+      <recent name="$PROJECT_DIR$/venv/problem_set_2" />
+      <recent name="$PROJECT_DIR$/venv/problem_set_1" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.ps3b_sol">
+    <configuration name="perm" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="mitocw600SC" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/venv/problem_set_3" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/venv/problem_set_3/perm.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="ps3a" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="mitocw600SC" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/venv/problem_set_3" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/venv/problem_set_3/ps3a.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="ps3b" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="mitocw600SC" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/venv/problem_set_3" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/venv/problem_set_3/ps3b.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="ps3b_sol" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="mitocw600SC" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/venv/problem_set_3" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/venv/problem_set_3/ps3b_sol.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="testing" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="mitocw600SC" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/venv/problem_set_2" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/venv/problem_set_2/testing.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.testing" />
+      <item itemvalue="Python.ps3a" />
+      <item itemvalue="Python.perm" />
+      <item itemvalue="Python.ps3b" />
+      <item itemvalue="Python.ps3b_sol" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.ps3b_sol" />
+        <item itemvalue="Python.ps3b" />
+        <item itemvalue="Python.ps3a" />
+        <item itemvalue="Python.testing" />
+        <item itemvalue="Python.perm" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f1f36420-1e32-4a38-9f03-fe1d9c779d81" name="Default" comment="" />
+      <created>1525214839623</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1525214839623</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="22" width="1440" height="874" extended-state="0" />
+    <layout>
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32947233" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.34491634" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Python Console" order="7" weight="0.32818532" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.27670527" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4990403" visible="true" weight="0.15879828" />
+      <window_info anchor="right" id="R Packages" order="3" weight="0.3297568" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="right" id="R Graphics" order="4" />
+      <window_info anchor="right" id="Database" order="5" weight="0.3297568" />
+      <window_info anchor="right" id="SciView" order="6" weight="0.3297568" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3217503" />
+      <window_info id="Favorites" order="2" sideWeight="0.5009597" side_tool="true" weight="0.15665236" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" x="0" y="0" width="620" height="674" id="Documentation" order="7" weight="0.3297568" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32947233" />
+    </layout>
+    <layout-to-restore>
+      <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.14878398" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32947233" />
+      <window_info anchor="right" id="R Graphics" order="4" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.23809524" />
+      <window_info anchor="right" id="R Packages" order="3" weight="0.3297568" />
+      <window_info anchor="bottom" id="Python Console" order="12" weight="0.32818532" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32947233" />
+      <window_info anchor="right" x="0" y="0" width="620" height="674" id="Documentation" order="7" weight="0.3297568" />
+      <window_info anchor="right" id="Database" order="5" weight="0.3297568" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.27670527" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="6" weight="0.3297568" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3217503" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="1" />
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/venv/problem_set_2/ps2_newton.py" />
+    <entry file="file://$PROJECT_DIR$/venv/problem_set_2/words.txt" />
+    <entry file="file://$PROJECT_DIR$/venv/problem_set_2/testing.py" />
+    <entry file="file://$PROJECT_DIR$/venv/problem_set_2/ps2_hangman.py" />
+    <entry file="file://$PROJECT_DIR$/venv/problem_set_2/ps2_newton.py" />
+    <entry file="file://$PROJECT_DIR$/venv/problem_set_2/testing.py" />
+    <entry file="file://$PROJECT_DIR$/venv/problem_set_2/ps2_hangman.py" />
+    <entry file="file://$PROJECT_DIR$/venv/problem_set_2/ps2_newton.py" />
+    <entry file="file://$PROJECT_DIR$/venv/problem_set_2/testing.py" />
+    <entry file="file://$PROJECT_DIR$/venv/problem_set_2/ps2_hangman.py" />
+    <entry file="file://$PROJECT_DIR$/venv/problem_set_2/ps2_newton.py" />
+    <entry file="file://$PROJECT_DIR$/venv/problem_set_2/testing.py" />
+    <entry file="file://$PROJECT_DIR$/venv/problem_set_2/ps2_hangman.py" />
+    <entry file="file://$PROJECT_DIR$/venv/problemset_0.py" />
+    <entry file="file://$PROJECT_DIR$/venv/problemset_0.py" />
+    <entry file="file://$PROJECT_DIR$/venv/PProjects/Recursive_demo_1.py" />
+    <entry file="file://$PROJECT_DIR$/venv/problem_set_1/ps1b.py" />
+    <entry file="file://$PROJECT_DIR$/venv/problem_set_1/ps1a.py" />
+    <entry file="file://$PROJECT_DIR$/venv/PProjects/Recursive_ispal.py" />
+    <entry file="file://$PROJECT_DIR$/venv/problem_set_1/ps1b_revised.py" />
+    <entry file="file://$PROJECT_DIR$/venv/problem_set_1/ps1c.py" />
+    <entry file="file://$PROJECT_DIR$/venv/problem_set_1/lec3cd.py" />
+    <entry file="file://$PROJECT_DIR$/venv/problem_set_2/lecture5code.py" />
+    <entry file="file://$PROJECT_DIR$/venv/problem_set_2/ps2_problem#2.py" />
+    <entry file="file://$PROJECT_DIR$/venv/problem_set_2/ps2_problem#1.py" />
+    <entry file="file://$USER_HOME$/Desktop/MITocw/600EECS/6-00sc-spring-2011 copy/6-00sc-spring-2011/contents/unit-1/lecture-6-recursion/ps2/words copy.txt" />
+    <entry file="file://$PROJECT_DIR$/venv/problem_set_2/ps2_newton.py" />
+    <entry file="file://$PROJECT_DIR$/venv/problem_set_2/words.txt" />
+    <entry file="file://$PROJECT_DIR$/venv/problem_set_2/ps2_hangman.py" />
+    <entry file="file://$PROJECT_DIR$/venv/problem_set_3/test_ps3a.py" />
+    <entry file="file://$PROJECT_DIR$/venv/problem_set_2/testing.py" />
+    <entry file="file://$PROJECT_DIR$/venv/problem_set_3/perm.py" />
+    <entry file="file://$PROJECT_DIR$/venv/problem_set_3/ps3a.py" />
+    <entry file="file://$PROJECT_DIR$/venv/problem_set_3/ps3asol.py" />
+    <entry file="file://$PROJECT_DIR$/venv/problem_set_3/ps3b_sol.py" />
+    <entry file="file://$PROJECT_DIR$/venv/problem_set_3/ps3b.py" />
+  </component>
+</project>

@@ -1,0 +1,25 @@
+P1 ----------------------------------
+1. You flip a fair coin 3 times, write down the probability of the below events. Assume all sequences are equally likely.
+    1. Three heads: A : {H,H,H}
+    2. The sequence head, tail, head: A : {H,T,H}
+    3. Any sequence with 2 heads and 1 tail
+    4. Any sequence where the number of heads is greater than or equal to the number of tails
+
+1) 1/2 * 1/2 * 1/2 = 1/8
+2) 1/8
+3) {HHT}, {HTH}, {THH} --> 1/8 * 3 = 3/8
+4) cases where two heads are shown, and case where all three are heads (cannot be equal to number of tails)
+    --> 3/8 + P{HHH} = 1/2
+
+
+P2 ----------------------------------
+2. What is the probability of rolling a Yahtzee! on the first roll? That is, what is the probability of
+rolling five 6-sided dice, and having them all display the same number?
+
+--> 6 cases: (all 1, all 2, ------ all 6) --> (1/6**5) * 6 = 1/1296
+
+
+P3 ----------------------------------
+Write a Monte Carlo simulation to solve the above problem (the Yahtzee problem), and submit your code as ps7b.py.
+
+--> refer to ps7b.py

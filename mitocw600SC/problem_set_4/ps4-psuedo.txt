@@ -1,0 +1,39 @@
+# Name: Sangwook Cheon
+# Collaborators (Discussion): None
+# Collaborators (Identical Solution): None
+# Time: 1 hour
+
+Your algorithms should be plain English explanations for the steps your program will take to solve these problems.
+
+Write out your algorithm for Problem 2 here:
+
+define find_best_shift(wordlist, encrypted text)
+1) from 0 to less than 27, apply decoder on encrypted text.
+2) for each iteration, count number of words in the decoded text
+    2.a) to count the number of words:
+        a) until space is encountered add letters to a variable
+        b) check whether or not the variable is an English word
+        c) repeat, while updating the maximum words possible.
+        d) updating the best choice: best decoder = the shift that led to this value
+3) At the end of the last iteration, check what the best decoder is
+4) return this value.
+
+
+Write out your algorithm for Problem 4 here:
+
+define find_best_shifts_rec(wordlist, encrypted text, starting location)
+1) from 0 to less than 27,
+    apply find_best_shift to each word
+    a) find the shift value that decodes the scrambled a word into a correct English word
+    b) If nothing satisfies this, repeat the function until the word is found (if shifts are layered at one location)
+    c) apply layers of shifts (or just one layer) to all characters, and repeat the function until all the words are
+        correct English words
+
+
+1) Base case --> if starting location is length of encrypted text, return the best option
+2) Recursive case --> from zero to length of encrypted text:
+    a) for each iteration, find best shift that creates most amount of correct words.
+    b) apply the shift to the whole text
+    c) Add the correct shift to the shifts list.
+    c) with the updated text, return the same function with(wordlist, modified text, location of the next word).
+
